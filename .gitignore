@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Go binary (root only)
+/engram
+
+# Config (user should copy from .env.example)
+configs/.env
+
+# LightRAG storage & logs
+services/lightrag/rag_storage/
+services/lightrag/*.log
+rag_storage/
+inputs/
+lightrag.log
+logs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store

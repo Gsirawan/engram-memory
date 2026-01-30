@@ -1,0 +1,13 @@
+[project]
+name = "engram"
+version = "0.1.0"
+description = "Persistent AI companion memory — knowledge graph over conversations"
+requires-python = ">=3.11"
+dependencies = [
+    "lightrag-hku[api]",
+    "openai",
+    "ollama",
+]
+
+[dependency-groups]
+dev = []
