@@ -8,9 +8,8 @@ Engram stores and retrieves personal conversation data. Security matters.
 
 If you discover a security vulnerability, please report it responsibly:
 
-1. **Do NOT open a public issue**
-2. Email: **engram-security@proton.me** (or open a private security advisory on GitHub)
-3. Include: description, reproduction steps, potential impact
+1. **Open a public issue**
+2. Include: description, reproduction steps, potential impact
 
 We will acknowledge within 48 hours and aim to patch critical issues within 7 days.
 
